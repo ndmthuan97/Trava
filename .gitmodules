@@ -1,0 +1,6 @@
+[submodule "trava-backend"]
+	path = trava-backend
+	url = https://github.com/ndmthuan97/trava-backend.git
+[submodule "trava-frontend"]
+	path = trava-frontend
+	url = https://github.com/ndmthuan97/trava-frontend.git
